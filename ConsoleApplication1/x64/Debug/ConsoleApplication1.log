@@ -1,0 +1,8 @@
+﻿  MerkelMain.cpp
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\MerkelMain.cpp(109,38): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\MerkelMain.cpp(147,38): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\MerkelMain.cpp(490,34): warning C4101: 'e': unreferenced local variable
+  main.cpp
+  Generating Code...
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\MerkelMain.cpp(587): warning C4715: 'MerkelMain::processUserAskOrBidOption': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\x64\Debug\main.exe

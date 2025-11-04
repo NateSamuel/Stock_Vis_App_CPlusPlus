@@ -1,0 +1,21 @@
+﻿  CSVReader.cpp
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\CSVReader.cpp(25,42): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\CSVReader.cpp(41,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\CSVReader.cpp(43,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\CSVReader.cpp(68,34): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\CSVReader.cpp(95,34): warning C4101: 'e': unreferenced local variable
+  Candlestick.cpp
+  MerkelMain.cpp
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\MerkelMain.cpp(109,38): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\MerkelMain.cpp(147,38): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\ConsoleApplication1\MerkelMain.cpp(490,34): warning C4101: 'e': unreferenced local variable
+  OrderBook.cpp
+  OrderBookEntry.cpp
+  Wallet.cpp
+  main.cpp
+  Generating code
+  0 of 768 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\user\Documents\Computer Science\Object-Oriented-Programming\MidtermFinal\Main\x64\Release\main.exe
